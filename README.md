@@ -1,3 +1,6 @@
+<h3>  Welcome to my profile! </h3>
+
+<p> I am a Junior Front-End Developer. </p>
 <div>
   <a href="https://github.com/felipenewplayer">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=felipenewplayer&theme=dark&show)_icons=true"/>
