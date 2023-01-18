@@ -1,7 +1,6 @@
 <div>
   <a href="https://github.com/felipenewplayer">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=felipenewplayer&theme=dark&show)_icons=true"/>
-   (https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats)
   <img height="180em" src="https://github-readme-stats.vercel.app/api/pin?username=felipenewplayer&repo=github-readme-stats"/>
 </div>
 <div style="display: inline_block"><br>
