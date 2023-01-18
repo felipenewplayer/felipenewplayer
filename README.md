@@ -1,6 +1,7 @@
 <div>
   <a href="https://github.com/felipenewplayer">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=felipenewplayer&show_icons=true&theme=radical"/>
+    ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&theme=dark&show_icons=true)
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=felipenewplayer&theme=dark&show)_icons=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=felipenewplayer&layout=compact&langs_count=6&theme=tokyonight"/>
 </div>
 <div style="display: inline_block"><br>
