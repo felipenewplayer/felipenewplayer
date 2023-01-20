@@ -3,6 +3,7 @@
 <p> I am a Junior Front-End Developer. </p>
 <div>
   <a href="https://github.com/felipenewplayer">
+   
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=felipenewplayer&theme=dracula&show)_icons=true"/>
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=felipenewplayer&layout=compact&theme=dracula">
  
