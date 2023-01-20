@@ -4,8 +4,8 @@
 <div>
   <a href="https://github.com/felipenewplayer">
    
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=felipenewplayer&theme=dracula&show)_icons=true"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=felipenewplayer&layout=compact&theme=dracula">
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=felipenewplayer">
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=felipenewplayer">
  
 </div>
 <div style="display: inline_block"><br>
@@ -20,9 +20,6 @@
   ### Mais informações!
  
 <div> 
-
-  <a href="https://www.linkedin.com/in/felipe-pereira-6a7828255/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
- 
- 
-
-</div>
+  <a href="https://www.linkedin.com/in/felipe-pereira-6a7828255/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
+  </a> 
+ </div>
