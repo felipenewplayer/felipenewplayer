@@ -1,6 +1,6 @@
 <h3>  Welcome to my profile! </h3>
 
-<p> I am a Junior Front-End Developer. </p>
+<p></p>
 <div>
   <a href="https://github.com/felipenewplayer">
    
@@ -9,12 +9,7 @@
  
 </div>
 <div style="display: inline_block"><br>
-  <img  height="50" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img  height="50" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img  height="50" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img  height="50"  width="40"src ="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img  height="50"  width="40"src ="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg">
-  
+  <img  height="50" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-plain.svg">
 </div>
  
  <br>
