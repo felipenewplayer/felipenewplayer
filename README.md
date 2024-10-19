@@ -10,6 +10,7 @@
 </div>
 <div style="display: inline_block"><br>
   <img  height="50" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-plain.svg">
+  <img  height="50" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mtsql/mysql-plain.svg">
 </div>
  
  <br>
