@@ -1,4 +1,9 @@
-<h3>  Welcome to my profile! </h3>
+<h3>  
+Bem-vindo(a) ao meu perfil!!
+🎓 Estudante de TI | 
+🚀 Focado em Java, Spring Boot e Microservices
+📜 Certificados pela Alura: Java, Spring Boot, Microservices e MySQL
+🎯 Buscando estágio para aplicar meus conhecimentos e evoluir como desenvolvedor
 
 <p></p>
 <div>
