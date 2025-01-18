@@ -1,11 +1,11 @@
-<h3>  
-Bem-vindo(a) ao meu perfil!!
+<p>
+  Bem-vindo(a) ao meu perfil!!
 🎓 Estudante de TI | 
 🚀 Focado em Java, Spring Boot e Microservices
 📜 Certificados pela Alura: Java, Spring Boot, Microservices e MySQL
 🎯 Buscando estágio para aplicar meus conhecimentos e evoluir como desenvolvedor
+</p>
 
-<p></p>
 <div>
   <a href="https://github.com/felipenewplayer">
    
@@ -23,5 +23,6 @@ Bem-vindo(a) ao meu perfil!!
  
 <div> 
   <a href="https://www.linkedin.com/in/felipe-pereira-6a7828255/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
+  <a href="https://www.linkedin.com/in/felipe-pereira-6a7828255/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=docker&logoColor=white" target="_blank">
   </a> 
  </div>
