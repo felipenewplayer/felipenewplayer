@@ -102,7 +102,7 @@ Me chamo Felipe , tenho 27 anos e sou natural de São Paulo. Atualmente, estou c
       align="left" 
       alt="GitHub Stats" 
       height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=felipenewplayer&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=felipenewplayer&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=11" 
   />
 
 </p>
