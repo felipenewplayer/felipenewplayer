@@ -37,6 +37,15 @@ Me chamo Felipe , tenho 27 anos e sou natural de São Paulo. Atualmente, estou c
 />
 <img 
     align="left" 
+    alt="PHP" 
+    title="PHP"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" />
+          
+/>
+<img 
+    align="left" 
     alt="React"
     title="React" 
     width="30px" 
@@ -51,6 +60,23 @@ Me chamo Felipe , tenho 27 anos e sou natural de São Paulo. Atualmente, estou c
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" 
 />
+<img 
+    align="left" 
+    alt="C" 
+    title="C"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="cplus" 
+    title="cplus"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg"
+  />
+        
 <img 
     align="left" 
     alt="Java" 
