@@ -41,9 +41,9 @@ Me chamo Felipe , tenho 27 anos e sou natural de São Paulo. Atualmente, estou c
     title="PHP"
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" />
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg"
+  />
           
-/>
 <img 
     align="left" 
     alt="React"
