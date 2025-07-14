@@ -6,8 +6,12 @@ Olá, boas vindas ao meu perfil GitHub 👋
 
 Me chamo Felipe , tenho 27 anos e sou natural de São Paulo. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na FMU, cursos na Alura sobre programação e cursos na Cisco Academy sobre Cibersegurança. Sou apaixonado por tecnologia.
   
-  <a href="https://www.linkedin.com/in/felipe-pereira-6a7828255/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
+  <a href="https://www.linkedin.com/in/felipe-pereira-6a7828255/" target="_blank">
+  <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
   </a> 
+ <a href="https://next-js-portifolio-alpha.vercel.app/" target="_blank">
+  <img src="https://img.shields.io/badge/Portfólio-orange?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfólio">
+</a>
 
 ### 🤖 Linguagens e Tecnologias
 
