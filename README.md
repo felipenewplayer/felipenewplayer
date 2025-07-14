@@ -66,6 +66,20 @@ Me chamo Felipe , tenho 27 anos e sou natural de São Paulo. Atualmente, estou c
 />
 <img 
     align="left" 
+    alt="NextJs"
+    title="NextJs" 
+    width="30px" 
+    style="padding-right: 10px;" 
+  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" />
+<img 
+    align="left" 
+    alt="Tailwindcss"
+    title="Tailwindcss" 
+    width="30px" 
+    style="padding-right: 10px;" 
+  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" />
+<img 
+    align="left" 
     alt="Bootstrap" 
     title="Bootstrap"
     width="30px" 
